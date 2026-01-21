@@ -11,3 +11,7 @@ INI ADALAH IPLEMENTASI DARIPAADA TUGAS PERTEMUAN KE 6 YAG MANA DAS PADA KARAKTER
 <img width="1280" height="962" alt="image" src="https://github.com/user-attachments/assets/c2d890ed-8d46-409e-b177-2aea242e0c95" />
 
 INI ADALAH HASIL PENERAPAN DARI PERTEMUAN KE  8 YANG DIMANA MENERAPKAN 3D
+
+<img width="1003" height="731" alt="image" src="https://github.com/user-attachments/assets/0c341e91-026a-4711-ac95-6e90257a927a" />
+
+INI ADALAH  PENERAPAN DARIPADA TUGAS UAS YAITU OPJEK  3 DIMENSI
